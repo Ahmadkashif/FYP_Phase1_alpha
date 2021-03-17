@@ -1,0 +1,11 @@
+.setTimeBtn{
+    height: 40px;
+    text-align: center;
+    vertical-align: middle;
+    align-items: center;
+}
+
+.DateTimePickerDiv{
+    vertical-align: middle;
+    align-items: center;
+}

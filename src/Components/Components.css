@@ -1,0 +1,14 @@
+.DatePickerChutiyaap{
+    position: relative;
+    z-index: 1;
+}
+.popup-content {
+    position: absolute;
+    padding: 30px;
+    left: 0px;
+    top: 0px;
+    color: #787878;
+    background-color: #fcf7f8;
+    border: 1px solid rgba(0,0,0,.05);
+    z-index: 100;
+}
