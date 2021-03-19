@@ -56,7 +56,8 @@ class CompetitionsCollection extends Component{
             editpane : editor
         }
     )
-    // console.log(this.state.editpane)};
+    // console.log(this.state.editpane)
+};
 
     renderPlayers(){
         console.log("called")
